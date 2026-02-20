@@ -98,7 +98,7 @@ def main():
     link2 = input("Enter second URL: ").strip()
 
     simhashes = []
-
+#Writing everything to a txt file as terminal stops showing output after a limit.
     with open("output.txt", "w", encoding="utf-8") as out:
         for index, link in enumerate((link1, link2), start=1):
             title, body, links = unveil_url(link)
@@ -131,8 +131,6 @@ def main():
                 simhash = compute_simhash(freq)
                 simhashes.append(simhash)
 
-            
-            #Writing everything to a txt file as terminal stops showing output after a limit.
                 out.write("\nWORD FREQUENCIES:\n")
                 for w in sorted(freq, key=freq.get, reverse=True)[:]:
                     out.write(f"{w} : {freq[w]}\n")
@@ -155,4 +153,5 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal.
     main()
+
 
