@@ -135,23 +135,36 @@ def main():
                 for w in sorted(freq, key=freq.get, reverse=True)[:]:
                     out.write(f"{w} : {freq[w]}\n")
 
-                out.write("\nSIMHASH:\n")
+                out.write("\nSIMHASH (INTEGER):\n")
                 out.write(str(simhash) + "\n")
+
+                out.write("\nSIMHASH (64 BIT BINARY):\n")
+                out.write(format(simhash, "064b") + "\n")
             else:
                 out.write("\n[No Words Found-->Its A Void .....]\n")
 
         # For Final Simhash Comparison
         if len(simhashes) == 2:
             common = count_common_bits(simhashes[0], simhashes[1])
+            xor_val = simhashes[0] ^ simhashes[1]
+
             out.write("\n" + "=" * 100 + "\n")
             out.write("SIMHASH COMPARISON\n")
             out.write("=" * 100 + "\n")
-            out.write(f"Common bits between the two pages: {common}\n")
+
+            out.write("\nCOMMON BITS COUNT (INTEGER):\n")
+            out.write(str(common) + "\n")
+
+            out.write("\nXOR RESULT (INTEGER):\n")
+            out.write(str(xor_val) + "\n")
+
+            out.write("\nXOR RESULT (64 BIT BINARY):\n")
+            out.write(format(xor_val, "064b") + "\n")
+
+            out.write("=" * 100 + "\n")
 
 
 #=======================================================================================================================================================================
 
-if __name__ == "__main__":#To execute main and take input via terminal.
+if __name__ == "__main__":#To execute main and take input via terminal
     main()
-
-
