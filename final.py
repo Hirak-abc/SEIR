@@ -88,7 +88,7 @@ def compute_simhash(freq_map):
 
 
 def count_common_bits(h1, h2):
-    diff_bits = bin(h1 ^ h2).count("1")#We will use xor 
+    diff_bits = bin(h1 ^ h2).count("1")#We will use xor and count the no of 1's.
     return 64 - diff_bits
 #===============================================================================================================================================
 
@@ -168,4 +168,5 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
