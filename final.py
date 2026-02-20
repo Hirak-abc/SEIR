@@ -19,7 +19,7 @@ def summon_page(url):
         service=Service(ChromeDriverManager().install()),
         options=veil
     )
- # I initially used a manually downloaded ChromeDriver, but it broke after a Chrome update,
+ # I initially used a manually downloaded ChromeDriver version of my browser, but it broke after a Chrome update,
  # so I switched to automatic driver management to always stay compatible.
     summoner.get(url)
     time.sleep(3)
@@ -168,3 +168,4 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
