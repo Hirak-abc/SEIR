@@ -11,9 +11,7 @@ import time
 #=================================================================================================================================================
 def summon_page(url):
     veil = Options()
-    veil.add_argument("--headless")
-    veil.add_argument("--disable-gpu")
-    veil.add_argument("--no-sandbox")
+    veil.add_argument("--headless")#To run chrome without a window
 
     summoner = webdriver.Chrome(#to automatically download the correct ChromeDriver version matching the installed Chrome browser
         service=Service(ChromeDriverManager().install()),
@@ -168,5 +166,6 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
