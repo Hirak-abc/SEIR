@@ -153,12 +153,6 @@ def main():
             out.write("\nCOMMON BITS COUNT (INTEGER):\n")
             out.write(str(common) + "\n")
 
-            out.write("\nXOR RESULT (INTEGER):\n")
-            out.write(str(xor_val) + "\n")
-
-            out.write("\nXOR RESULT (64 BIT BINARY):\n")
-            out.write(format(xor_val, "064b") + "\n")
-
             out.write("=" * 100 + "\n")
 
 
@@ -166,6 +160,7 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
 
