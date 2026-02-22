@@ -152,10 +152,10 @@ def main():
             xor_val = simhashes[0] ^ simhashes[1]
 
             out.write("\n" + "=" * 100 + "\n")
-            out.write("SIMHASH COMPARISON\n")
+            out.write("SIMHASH COMPARISON(By Common Bit)\n")
             out.write("=" * 100 + "\n")
 
-            out.write("\nCOMMON BITS COUNT (INTEGER):\n")
+            out.write("\nCOMMON BITS COUNT :\n")
             out.write(str(common) + "\n")
 
             out.write("=" * 100 + "\n")
@@ -165,6 +165,7 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
 
