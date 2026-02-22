@@ -293,8 +293,11 @@ links : 1
 admissions : 1
 media : 1
 
-SIMHASH (64-bit integer):
+SIMHASH (INTEGER):
 18986
+
+SIMHASH (64 BIT BINARY):
+0000000000000000000000000000000000000000000000000100101000101010
 
 ======================================================================================================================================================
 PAGE 2
@@ -428,12 +431,13 @@ https://srmu.ac.in/assets/aa-career-360-270125114337-C6Py2Qhx.pdf
 https://srmu.ac.in/assets/aa-career-360-270125114337-C6Py2Qhx.pdf
 https://srmu.ac.in/about-us
 https://srmu.ac.in/admission/scholarship-scheme
+https://srmu.ac.in/admission/scholarship-scheme
 https://anubhuti.attechx.com/
 https://srmu.ac.in/
 https://srmu.ac.in/
 https://srmu.ac.in/
 https://srmu.ac.in/admission/scholarship-scheme
-https://anubhuti.attechx.com/
+https://srmu.ac.in/admission/scholarship-scheme
 https://srmu.ac.in/admission/program-finder
 https://srmu.ac.in/admission/program-finder
 https://srmu.ac.in/admission/program-finder
@@ -1468,10 +1472,22 @@ online : 1
 form : 1
 details : 1
 
-SIMHASH (64-bit integer):
+SIMHASH (INTEGER):
 105
+
+SIMHASH (64 BIT BINARY):
+0000000000000000000000000000000000000000000000000000000001101001
 
 ====================================================================================================
 SIMHASH COMPARISON
 ====================================================================================================
-Common bits between the two pages: 58
+
+COMMON BITS COUNT (INTEGER):
+58
+
+XOR RESULT (INTEGER):
+19011
+
+XOR RESULT (64 BIT BINARY):
+0000000000000000000000000000000000000000000000000100101001000011
+====================================================================================================
