@@ -4,306 +4,6 @@ PAGE 1
 ======================================================================================================================================================
 
 TITLE:
-Sitare University Program
-
-BODY:
-Sitare University Program You need to enable JavaScript to run this app. Academic Life Academic Life Academic Life Curriculum Student Projects University life University life University life Our Campus Hostels Cafeteria Auditorium Activities Clubs Sports Placements About Us About Us Who We Are About Us Who We Are Our People Gallery Contact Us Building AI talent for India, in India. Transforming Lives through World-Class Computer Science Education Sitare University Program believes in the power of education to drive social upliftment and personal transformation. Established in 2022 by Dr. Amit Singhal (former SVP of Google Search, an ACM Fellow, and a member of the National Academy of Engineering in the United States), our mission is to provide top-tier Computer Science education to bright students from economically disadvantaged backgrounds. We aim to cultivate future leaders in technology who will drive innovation and change across the globe. Placements Academic Life University Life A
-
-OUTGOING URLS:
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/
-https://univ.sitare.org/placements
-https://univ.sitare.org/academic-Life
-https://univ.sitare.org/facilities
-https://univ.sitare.org/why-sitare
-https://univ.sitare.org/curriculum
-https://youtu.be/RXCVtfYnCg4?si=8UlgPiDON4RZzzQP
-https://univ.sitare.org/facilities
-https://univ.sitare.org/sports
-https://univ.sitare.org/student-projects
-https://univ.sitare.org/hostels
-https://univ.sitare.org/cafeteria
-https://univ.sitare.org/gym
-https://univ.sitare.org/sports
-https://a79.ai
-https://www.ambientsecurity.ai
-https://www.autonxt.in
-http://www.beans.ai
-http://chalo.com
-http://shop.chaipoint.com
-http://www.delhivery.com
-http://digiicampus.com
-http://www.driveu.in
-http://firsthive.com
-http://www.genepathdx.com
-http://www.glean.com
-http://goqii.com
-https://www.hiration.com/
-https://www.indihood.com/
-https://www.inmobi.com/
-http://www.inventuscap.com
-http://iotrl.io
-https://www.klearnow.ai/
-https://kloudle.com/
-http://www.lendingkart.com
-http://www.mathisys-india.com
-http://www.moglix.com
-https://goniyo.com/
-https://www.otocapital.in/
-https://proshort.ai/
-https://www.scalenut.com/
-https://skyroot.in/
-https://supertails.com
-http://tracxn.com
-https://www.trademo.com/
-https://www.yulu.bike/
-https://www.zeni.ai/
-https://www.zinghr.com/
-https://univ.sitare.org/why-sitare
-https://univ.sitare.org/
-mailto:university@sitare.org
-tel:+917849910085
-https://univ.sitare.org/curriculum
-https://univ.sitare.org/academic-Life
-https://univ.sitare.org/facilities
-https://univ.sitare.org/contact-us
-https://univ.sitare.org/admissions
-https://univ.sitare.org/why-sitare
-https://univ.sitare.org/our-people
-https://univ.sitare.org/facilities
-https://www.linkedin.com/school/sitare-university/posts/?feedView=all
-https://www.instagram.com/sitarefdn/?hl=en
-https://www.youtube.com/@SitareUniversity
-
-WORD FREQUENCIES:
-to : 12
-life : 11
-the : 11
-our : 10
-university : 9
-in : 8
-us : 7
-industry : 7
-sitare : 5
-academic : 5
-about : 5
-and : 5
-students : 5
-curriculum : 4
-campus : 4
-who : 4
-are : 4
-education : 4
-of : 4
-student : 3
-sports : 3
-we : 3
-computer : 3
-science : 3
-a : 3
-from : 3
-program : 2
-need : 2
-projects : 2
-cafeteria : 2
-placements : 2
-people : 2
-contact : 2
-for : 2
-india : 2
-through : 2
-class : 2
-drive : 2
-social : 2
-is : 2
-future : 2
-designed : 2
-with : 2
-on : 2
-learning : 2
-attention : 2
-paid : 2
-internships : 2
-year : 2
-at : 2
-lucknow : 2
-you : 1
-enable : 1
-javascript : 1
-run : 1
-this : 1
-app : 1
-hostels : 1
-auditorium : 1
-activities : 1
-clubs : 1
-gallery : 1
-building : 1
-ai : 1
-talent : 1
-transforming : 1
-lives : 1
-world : 1
-believes : 1
-power : 1
-upliftment : 1
-personal : 1
-transformation : 1
-established : 1
-2022 : 1
-by : 1
-dr : 1
-amit : 1
-singhal : 1
-former : 1
-svp : 1
-google : 1
-search : 1
-an : 1
-acm : 1
-fellow : 1
-member : 1
-national : 1
-academy : 1
-engineering : 1
-united : 1
-states : 1
-mission : 1
-provide : 1
-top : 1
-tier : 1
-bright : 1
-economically : 1
-disadvantaged : 1
-backgrounds : 1
-aim : 1
-cultivate : 1
-leaders : 1
-technology : 1
-will : 1
-innovation : 1
-change : 1
-across : 1
-globe : 1
-innovative : 1
-success : 1
-focused : 1
-courses : 1
-align : 1
-perfectly : 1
-requirements : 1
-ensuring : 1
-job : 1
-ready : 1
-day : 1
-one : 1
-hands : 1
-emphasis : 1
-project : 1
-based : 1
-allows : 1
-apply : 1
-theoretical : 1
-knowledge : 1
-practical : 1
-problems : 1
-personalized : 1
-small : 1
-sizes : 1
-dedicated : 1
-faculty : 1
-each : 1
-receives : 1
-support : 1
-they : 1
-excel : 1
-starting : 1
-right : 1
-after : 1
-second : 1
-gain : 1
-valuable : 1
-experience : 1
-immersion : 1
-final : 1
-completely : 1
-spent : 1
-working : 1
-giving : 1
-significant : 1
-head : 1
-start : 1
-their : 1
-careers : 1
-beyond : 1
-lecture : 1
-hall : 1
-what : 1
-it : 1
-s : 1
-like : 1
-be : 1
-club : 1
-hostel : 1
-gym : 1
-connections : 1
-quote : 1
-founder : 1
-belongs : 1
-nations : 1
-can : 1
-make : 1
-fundamental : 1
-advances : 1
-know : 1
-more : 1
-address : 1
-srmcem : 1
-faizabad : 1
-road : 1
-226 : 1
-010 : 1
-email : 1
-org : 1
-phone : 1
-whatsapp : 1
-91 : 1
-78499 : 1
-10085 : 1
-quick : 1
-links : 1
-admissions : 1
-media : 1
-
-SIMHASH (INTEGER):
-18986
-
-SIMHASH (64 BIT BINARY):
-0000000000000000000000000000000000000000000000000100101000101010
-
-======================================================================================================================================================
-PAGE 2
-======================================================================================================================================================
-
-TITLE:
 Shri Ramswaroop Memorial University | SRMU
 
 BODY:
@@ -1478,16 +1178,310 @@ SIMHASH (INTEGER):
 SIMHASH (64 BIT BINARY):
 0000000000000000000000000000000000000000000000000000000001101001
 
+======================================================================================================================================================
+PAGE 2
+======================================================================================================================================================
+
+TITLE:
+Sitare University Program
+
+BODY:
+Sitare University Program You need to enable JavaScript to run this app. Academic Life Academic Life Academic Life Curriculum Student Projects University life University life University life Our Campus Hostels Cafeteria Auditorium Activities Clubs Sports Placements About Us About Us Who We Are About Us Who We Are Our People Gallery Contact Us Building AI talent for India, in India. Transforming Lives through World-Class Computer Science Education Sitare University Program believes in the power of education to drive social upliftment and personal transformation. Established in 2022 by Dr. Amit Singhal (former SVP of Google Search, an ACM Fellow, and a member of the National Academy of Engineering in the United States), our mission is to provide top-tier Computer Science education to bright students from economically disadvantaged backgrounds. We aim to cultivate future leaders in technology who will drive innovation and change across the globe. Placements Academic Life University Life A
+
+OUTGOING URLS:
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/
+https://univ.sitare.org/placements
+https://univ.sitare.org/academic-Life
+https://univ.sitare.org/facilities
+https://univ.sitare.org/why-sitare
+https://univ.sitare.org/curriculum
+https://youtu.be/RXCVtfYnCg4?si=8UlgPiDON4RZzzQP
+https://univ.sitare.org/facilities
+https://univ.sitare.org/sports
+https://univ.sitare.org/student-projects
+https://univ.sitare.org/hostels
+https://univ.sitare.org/cafeteria
+https://univ.sitare.org/gym
+https://univ.sitare.org/sports
+https://a79.ai
+https://www.ambientsecurity.ai
+https://www.autonxt.in
+http://www.beans.ai
+http://chalo.com
+http://shop.chaipoint.com
+http://www.delhivery.com
+http://digiicampus.com
+http://www.driveu.in
+http://firsthive.com
+http://www.genepathdx.com
+http://www.glean.com
+http://goqii.com
+https://www.hiration.com/
+https://www.indihood.com/
+https://www.inmobi.com/
+http://www.inventuscap.com
+http://iotrl.io
+https://www.klearnow.ai/
+https://kloudle.com/
+http://www.lendingkart.com
+http://www.mathisys-india.com
+http://www.moglix.com
+https://goniyo.com/
+https://www.otocapital.in/
+https://proshort.ai/
+https://www.scalenut.com/
+https://skyroot.in/
+https://supertails.com
+http://tracxn.com
+https://www.trademo.com/
+https://www.yulu.bike/
+https://www.zeni.ai/
+https://www.zinghr.com/
+https://univ.sitare.org/why-sitare
+https://univ.sitare.org/
+mailto:university@sitare.org
+tel:+917849910085
+https://univ.sitare.org/curriculum
+https://univ.sitare.org/academic-Life
+https://univ.sitare.org/facilities
+https://univ.sitare.org/contact-us
+https://univ.sitare.org/admissions
+https://univ.sitare.org/why-sitare
+https://univ.sitare.org/our-people
+https://univ.sitare.org/facilities
+https://www.linkedin.com/school/sitare-university/posts/?feedView=all
+https://www.instagram.com/sitarefdn/?hl=en
+https://www.youtube.com/@SitareUniversity
+
+WORD FREQUENCIES:
+to : 12
+life : 11
+the : 11
+our : 10
+university : 9
+in : 8
+us : 7
+industry : 7
+sitare : 5
+academic : 5
+about : 5
+and : 5
+students : 5
+curriculum : 4
+campus : 4
+who : 4
+are : 4
+education : 4
+of : 4
+student : 3
+sports : 3
+we : 3
+computer : 3
+science : 3
+a : 3
+from : 3
+program : 2
+need : 2
+projects : 2
+cafeteria : 2
+placements : 2
+people : 2
+contact : 2
+for : 2
+india : 2
+through : 2
+class : 2
+drive : 2
+social : 2
+is : 2
+future : 2
+designed : 2
+with : 2
+on : 2
+learning : 2
+attention : 2
+paid : 2
+internships : 2
+year : 2
+at : 2
+lucknow : 2
+you : 1
+enable : 1
+javascript : 1
+run : 1
+this : 1
+app : 1
+hostels : 1
+auditorium : 1
+activities : 1
+clubs : 1
+gallery : 1
+building : 1
+ai : 1
+talent : 1
+transforming : 1
+lives : 1
+world : 1
+believes : 1
+power : 1
+upliftment : 1
+personal : 1
+transformation : 1
+established : 1
+2022 : 1
+by : 1
+dr : 1
+amit : 1
+singhal : 1
+former : 1
+svp : 1
+google : 1
+search : 1
+an : 1
+acm : 1
+fellow : 1
+member : 1
+national : 1
+academy : 1
+engineering : 1
+united : 1
+states : 1
+mission : 1
+provide : 1
+top : 1
+tier : 1
+bright : 1
+economically : 1
+disadvantaged : 1
+backgrounds : 1
+aim : 1
+cultivate : 1
+leaders : 1
+technology : 1
+will : 1
+innovation : 1
+change : 1
+across : 1
+globe : 1
+innovative : 1
+success : 1
+focused : 1
+courses : 1
+align : 1
+perfectly : 1
+requirements : 1
+ensuring : 1
+job : 1
+ready : 1
+day : 1
+one : 1
+hands : 1
+emphasis : 1
+project : 1
+based : 1
+allows : 1
+apply : 1
+theoretical : 1
+knowledge : 1
+practical : 1
+problems : 1
+personalized : 1
+small : 1
+sizes : 1
+dedicated : 1
+faculty : 1
+each : 1
+receives : 1
+support : 1
+they : 1
+excel : 1
+starting : 1
+right : 1
+after : 1
+second : 1
+gain : 1
+valuable : 1
+experience : 1
+immersion : 1
+final : 1
+completely : 1
+spent : 1
+working : 1
+giving : 1
+significant : 1
+head : 1
+start : 1
+their : 1
+careers : 1
+beyond : 1
+lecture : 1
+hall : 1
+what : 1
+it : 1
+s : 1
+like : 1
+be : 1
+club : 1
+hostel : 1
+gym : 1
+connections : 1
+quote : 1
+founder : 1
+belongs : 1
+nations : 1
+can : 1
+make : 1
+fundamental : 1
+advances : 1
+know : 1
+more : 1
+address : 1
+srmcem : 1
+faizabad : 1
+road : 1
+226 : 1
+010 : 1
+email : 1
+org : 1
+phone : 1
+whatsapp : 1
+91 : 1
+78499 : 1
+10085 : 1
+quick : 1
+links : 1
+admissions : 1
+media : 1
+
+SIMHASH (INTEGER):
+18986
+
+SIMHASH (64 BIT BINARY):
+0000000000000000000000000000000000000000000000000100101000101010
+
 ====================================================================================================
 SIMHASH COMPARISON
 ====================================================================================================
 
 COMMON BITS COUNT (INTEGER):
 58
-
-XOR RESULT (INTEGER):
-19011
-
-XOR RESULT (64 BIT BINARY):
-0000000000000000000000000000000000000000000000000100101001000011
 ====================================================================================================
