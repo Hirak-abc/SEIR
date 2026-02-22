@@ -12,7 +12,6 @@ from urllib.parse import urljoin
 import re
 import time
 
-
 #=================================================================================================================================================
 def summon_page(url):
     veil = Options()
@@ -29,8 +28,6 @@ def summon_page(url):
     revealed_script = summoner.page_source
     summoner.quit()
     return revealed_script
-
-
 
 
 def unveil_url(url):#It handles everything after a page is fetched(summoned).
@@ -59,7 +56,6 @@ def count_words(body):
     return freq
 
 
-
 #==============================================================================================================================================
 def polyhash(word):
     p = 53
@@ -86,7 +82,6 @@ def compute_simhash(freq_map):
     for i in range(64):
         if vector[i] > 0:
             simhash |= (1 << i)
-
     return simhash
 
 
@@ -144,7 +139,7 @@ def main():
                 out.write("\nSIMHASH (64 BIT BINARY):\n")
                 out.write(format(simhash, "064b") + "\n")
             else:
-                out.write("\n[No Words Found-->Its A Void .....]\n")
+                out.write("\n[NO WORDS FOUND.....]\n")
 
         # For Final Simhash Comparison
         if len(simhashes) == 2:
@@ -165,6 +160,7 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
 
