@@ -1,60 +1,60 @@
-# Assignment 1: Web Page Similarity 
+# Assignment 1: Web Page Similarity
 
 ## Objective
-The objective of this project is to compare two web pages and determine their similarity using SimHash, a technique widely used for near-duplicate document detection.
+The aim of this assignment is to check how similar two web pages are by looking at their actual content instead of just their URLs. To do this, the project uses **SimHash**.
 
-The project renders live web pages, extracts textual content, computes word frequencies, generates 64-bit SimHash fingerprints, and compares them using Hamming distance (bit-level similarity).
+The program loads two web pages, reads the visible text from them, counts how often words appear, creates a compact 64-bit fingerprint for each page, and then compares these fingerprints to estimate how similar the pages are.
 
 ## Information Retrieval Concepts Used
 
-| Concept                   | Description                                                     |
-|---------------------------|-----------------------------------------------------------------|
-| Web Crawling              | Fetching live web pages using a browser-based crawler            |
-| HTML Parsing              | Extracting title, body text, and hyperlinks                      |
-| Tokenization              | Manual alphanumeric word extraction                              |
-| Term Frequency (TF)       | Counting occurrences of words                                    |
-| Hashing                   | Polynomial rolling hash                                          |
-| Document Fingerprinting   | SimHash                                                         |
-| Similarity Measure        | Hamming Distance (via XOR)                                       |
+| Concept                 | Description                                                      |
+|-------------------------|------------------------------------------------------------------|
+| Web Crawling            | Loading live web pages using an automated browser                |
+| HTML Parsing            | Extracting title, text content, and hyperlinks from HTML         |
+| Tokenization            | Breaking text into individual alphanumeric words                 |
+| Term Frequency (TF)     | Counting how many times each word appears                        |
+| Hashing                 | Converting words into numeric values using polynomial hashing    |
+| Document Fingerprinting | Representing a document using SimHash                            |
+| Similarity Measure      | Measuring similarity using Hamming Distance (via XOR)           |
 
 ## Technologies Used
 - Python  
 - Selenium  
 - webdriver-manager  
 - BeautifulSoup (bs4)  
-- Standard Python libraries (re, time, urllib)  
+- Standard Python libraries such as `re`, `time`, and `urllib`  
 
 ## Working Methodology
 
 ### Fetch Web Pages
-- Uses Selenium with headless Chrome  
-- Automatically manages ChromeDriver version  
-- Fully renders JavaScript-based pages  
+The program uses Selenium with headless Chrome to open each webpage. This approach ensures that pages relying on JavaScript are fully loaded before any data is extracted. ChromeDriver is managed automatically so browser updates do not break the program.
 
 ### HTML Parsing
-- Parses rendered HTML using BeautifulSoup  
-- Extracts page title  
-- Removes `<script>` and `<style>` tags  
-- Extracts visible text from the document  
-- Collects all outgoing hyperlinks  
+Once the page is loaded, BeautifulSoup is used to parse the HTML.  
+The program:
+- Extracts the page title  
+- Removes unnecessary `<script>` and `<style>` tags  
+- Collects all visible text  
+- Gathers all outgoing hyperlinks present on the page  
 
 ### Tokenization
-- Converts text to lowercase  
-- Extracts alphanumeric tokens using regular expressions  
+The extracted text is converted to lowercase and split into words containing only letters and numbers. This keeps the comparison simple and consistent.
 
 ### Word Frequency Calculation
-- Counts frequency of each token in the document  
+Each word is counted to determine how important it is within the page. Words that appear more frequently have a greater impact on the final fingerprint.
 
 ### SimHash Generation
-- Applies polynomial hashing to each word  
-- Builds a weighted 64-bit vector  
-- Generates a 64-bit SimHash fingerprint  
+Each word is hashed using a polynomial rolling hash. These hashes are combined into a weighted 64-bit vector based on word frequencies, which is then converted into a single 64-bit SimHash value representing the page.
 
 ### Similarity Computation
-- Uses XOR between two SimHashes  
-- Counts differing bits  
-- Computes number of common bits (64 − differing bits)  
+The two SimHash values are compared using the XOR operation.  
+The number of matching bits is calculated to measure similarity. More matching bits indicate more similar content.
 
 ## Output
-- All extracted data and results are written to `output.txt`  
-- Includes titles, body text, outgoing links, word frequencies, SimHashes, and no. of common bits  
+All results are written to `output.txt` to avoid terminal overflow. The file contains:
+- Page titles  
+- Extracted body text  
+- Outgoing links  
+- Word frequency lists  
+- SimHash values (integer and binary form)  
+- The number of common bits between the two pages  
