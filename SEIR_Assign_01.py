@@ -1,4 +1,4 @@
-# This SEIR project takes two URLs, loads each webpage using Selenium, extracts the page title,
+# This SEIR project takes two URLs, loads each webpage, extracts the page title,
 # body text, and outgoing links, then computes  SimHash for each page based on word
 # frequencies from the  text. Finally, it compares the two SimHashes by counting the
 # number of common bits to measure similarity between the webpages.
@@ -160,6 +160,7 @@ def main():
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
 
