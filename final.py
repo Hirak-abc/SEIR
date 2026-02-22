@@ -155,11 +155,12 @@ def main():
 
             out.write("=" * 100 + "\n")
 
-
+#For same webpage,all the 64 bits will be common.
 #=======================================================================================================================================================================
 
 if __name__ == "__main__":#To execute main and take input via terminal
     main()
+
 
 
 
